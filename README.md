@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zaksmann
-- 👀 I’m interested in Learning and collaborating with Co-leaners
+- 👀 I’m interested in Learning and collaborating with Co-learners
 - 🌱 I’m currently learning software development (full-stack developer)
 - 💞️ I’m looking to collaborate on sharing my perspective on coding  
 - 📫 How to reach me- mail: zaksman2019@gmail.com/abbajigawa1105@gmail.com
